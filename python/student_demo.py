@@ -1,4 +1,4 @@
-from student import Student
+from git.my_repo.demoRepo.python.student import Student
 
 me = Student("Matthew", "DiGiovanni", 258)
 
